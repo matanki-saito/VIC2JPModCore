@@ -1290,7 +1290,7 @@ bitmapfonts = {
 # Use in exe
 	bitmapfont = {
 		name = "mapfont_56_small"
-		fontname = "vic_22_bl"
+		fontname = "mapfont"
 		color = 0xff000000	
 	}
 }
