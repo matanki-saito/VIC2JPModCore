@@ -1001,7 +1001,8 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "old_english"
-		fontname = "old_english"
+#		fontname = "old_english"
+		fontname = "newsfont"
 		color = 0xff333333
 	}
 
@@ -1276,8 +1277,10 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "vic_title"
-		fontname = "vic_title"
-		color = 0xffffffff	
+#		fontname = "vic_title"
+		fontname = "ledgerfont"
+#		color = 0xffffffff	
+		color = 0xffd3a243
 	}
 
 	bitmapfont = {
