@@ -1336,9 +1336,9 @@ fonts = {
 	}
 
 	font = {
-		name = "Loading_Font"
+		name = "Meiryo"
 		fontname = "garamond bold"
-		height = 18
+		height = 23
 		charset = "ANSI"		
 		color = 0xff000000	
 	}
