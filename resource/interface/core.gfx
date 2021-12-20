@@ -850,7 +850,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Main_24"
-		fontname = "garamond_24"
+		fontname = "sourceHanSerif22"
 		color = 0xffffffff
 	}
 
