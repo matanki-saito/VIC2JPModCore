@@ -1014,11 +1014,12 @@ bitmapfonts = {
 		color = 0xff333333
 	}
 
-	bitmapfont = {
-		name = "AnimatedMapText"
-		fontname = "tahoma_20_bold"
-		color = 0xff7799ff
-	}
+# duplicated section
+#	bitmapfont = {
+#		name = "AnimatedMapText"
+#		fontname = "tahoma_20_bold"
+#		color = 0xff7799ff
+#	}
 	
 	bitmapfont = {
 		name = "Arial12_bold_black"
